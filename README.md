@@ -1,1 +1,1 @@
-# Meu_Curriculo
+# Neste repositório estarei mantendo e atualizando meu curriculo.
